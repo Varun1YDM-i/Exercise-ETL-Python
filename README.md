@@ -18,6 +18,19 @@ exercise_etl/
     ├── etl.py         # Orchestrates the ETL flow
     └── logger.py      # Manages logging
 ```
+## 🧪 Sample Columns
+**Sample CSV Columns:**a
+- bodyPart
+- equipment
+- gifUrl
+- id
+- name
+- target
+- secondaryMuscles
+- instructions
+- description
+- difficulty
+- category
 
 ---
 
@@ -57,26 +70,4 @@ python etl.py
 - Step-by-step logging
 - Easily extendable (e.g., DB load, API filters, CLI support)
 
----
 
-## 🧪 Example Output
-**Sample CSV Columns:**a
-- bodyPart
-- equipment
-- gifUrl
-- id
-- name
-- target
-- secondaryMuscles
-- instructions
-- description
-- difficulty
-- category
-
----
-
-
-## 👤 Author
-- **Your Name** - [@yourusername](https://github.com/yourusername)
-
-For feedback or contributions, feel free to open an issue or submit a pull request! 🚀
