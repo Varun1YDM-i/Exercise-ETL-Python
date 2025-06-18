@@ -1,0 +1,8 @@
+Log file created at: 2025-06-18 19:25:25.730687
+
+ETL process started - 2025-06-18 19:25:25.731689
+Sending request to ExerciseDB API - 2025-06-18 19:25:25.731689
+Successfully fetched data from API - 2025-06-18 19:25:27.363014
+Header row written to CSV - 2025-06-18 19:25:27.365014
+Successfully inserted records into the CSV - 2025-06-18 19:25:27.367025
+ETL process completed - 2025-06-18 19:25:27.367025
