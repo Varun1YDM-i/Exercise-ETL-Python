@@ -62,12 +62,5 @@ python etl.py
 - CSV File: `../output/exercise.csv`
 - Logs: `../logs/log.txt`
 
----
-
-## 🛠 Features
-- Object-Oriented Design
-- Clean error handling for API & File I/O
-- Step-by-step logging
-- Easily extendable (e.g., DB load, API filters, CLI support)
 
 
